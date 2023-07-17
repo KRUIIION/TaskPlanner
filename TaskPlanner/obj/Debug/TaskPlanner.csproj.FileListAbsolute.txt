@@ -1,0 +1,15 @@
+C:\Users\Chenc\source\repos\TaskPlanner\TaskPlanner\bin\Debug\TaskPlanner.exe.config
+C:\Users\Chenc\source\repos\TaskPlanner\TaskPlanner\bin\Debug\TaskPlanner.exe
+C:\Users\Chenc\source\repos\TaskPlanner\TaskPlanner\bin\Debug\TaskPlanner.pdb
+C:\Users\Chenc\source\repos\TaskPlanner\TaskPlanner\obj\Debug\TaskPlanner.csproj.AssemblyReference.cache
+C:\Users\Chenc\source\repos\TaskPlanner\TaskPlanner\obj\Debug\MainWindow.g.cs
+C:\Users\Chenc\source\repos\TaskPlanner\TaskPlanner\obj\Debug\App.g.cs
+C:\Users\Chenc\source\repos\TaskPlanner\TaskPlanner\obj\Debug\TaskPlanner_MarkupCompile.cache
+C:\Users\Chenc\source\repos\TaskPlanner\TaskPlanner\obj\Debug\TaskPlanner_MarkupCompile.lref
+C:\Users\Chenc\source\repos\TaskPlanner\TaskPlanner\obj\Debug\MainWindow.baml
+C:\Users\Chenc\source\repos\TaskPlanner\TaskPlanner\obj\Debug\TaskPlanner.g.resources
+C:\Users\Chenc\source\repos\TaskPlanner\TaskPlanner\obj\Debug\TaskPlanner.Properties.Resources.resources
+C:\Users\Chenc\source\repos\TaskPlanner\TaskPlanner\obj\Debug\TaskPlanner.csproj.GenerateResource.cache
+C:\Users\Chenc\source\repos\TaskPlanner\TaskPlanner\obj\Debug\TaskPlanner.csproj.CoreCompileInputs.cache
+C:\Users\Chenc\source\repos\TaskPlanner\TaskPlanner\obj\Debug\TaskPlanner.exe
+C:\Users\Chenc\source\repos\TaskPlanner\TaskPlanner\obj\Debug\TaskPlanner.pdb
